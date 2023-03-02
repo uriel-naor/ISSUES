@@ -3,6 +3,6 @@
   "description": "wss maintenance server",
   "version": "21.11.1",
   "dependencies": {
-    "express":"3.0.0"
+    "angular":"1.8.0"
   }
 }
